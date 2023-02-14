@@ -31,10 +31,10 @@ CliftonStrengths:
 ##### Tools: 
 
 [<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/Excel-25631c?style=for-the-badge&logo=microsoft&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/Excel-25631c?style=for-the-badge&logo=microsoft&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/Google_Sheets-05f54d?style=for-the-badge&logo=google&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white"/>]()
 
 #### Repositories Pinned:
 - <a href="">Case Study: Online Store Data</a>
