@@ -37,7 +37,7 @@ CliftonStrengths:
 [<img src="https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white"/>]()
 
 #### Repositories Pinned:
-- <a href="">Case Study: Online Store Data</a>
+- <a href="https://github.com/Hmlynch/Online-Store-Ecommerce-Case-Study">Case Study: Online Store Data</a>
 - <a href="https://github.com/Hmlynch/Python-Practice">Python Practice: API Calling, Numpy, Pandas</a>
 - <a href="https://github.com/Hmlynch/Code-Wars-Problems">CodeWars: Python Practice Problems</a>
 
