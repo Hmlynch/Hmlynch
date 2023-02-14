@@ -12,6 +12,8 @@ With a strong sense of commitment, I am consistently driven to improve myself pe
 CliftonStrengths:
 | Discipline | Analytical | Restorative | Responsibility | Futuristic |
 
+#### Technical Experience:
+
 ##### Programming Langauges:
 
 [<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>]()
@@ -32,3 +34,11 @@ CliftonStrengths:
 [<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/Google_Sheets-05f54d?style=for-the-badge&logo=google&logoColor=white"/>]()
+
+#### Repositories Pinned:
+- <a src="">Case Study: Online Store Data</a>
+- <a src="">Python Problems: CodeWars</a>
+- <a src="">Python Practicing Methods: API Calling, Numpy, Pandas</a>
+
+#### Discussing Opportunities? Reach out to me on:
+[<a src="https://www.linkedin.com/in/hayden-lynch/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>]()
