@@ -40,6 +40,7 @@ CliftonStrengths:
 - <a href="https://github.com/Hmlynch/Online-Store-Ecommerce-Case-Study">Case Study: Online Store Data</a>
 - <a href="https://github.com/Hmlynch/Python-Practice">Python Practice: API Calling, Numpy, Pandas</a>
 - <a href="https://github.com/Hmlynch/Code-Wars-Problems">CodeWars: Python Practice Problems</a>
+- <a href="https://github.com/Hmlynch/Code-Wars-Problems">CodeWars: Python Practice Problems</a>
 
 #### Discussing Opportunities? Reach out to me on:
 [<a href="https://www.linkedin.com/in/hayden-lynch/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>]()
