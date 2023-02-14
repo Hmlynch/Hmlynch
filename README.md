@@ -10,6 +10,7 @@ Through the recent years, I have graduated from Ball State University with a deg
 With a strong sense of commitment, I am consistently driven to improve myself personally, as well as professionally. I am encouraged by my talents, which are being innovative, inventive, original, and resourceful. 
 
 CliftonStrengths:
+
 | Discipline | Analytical | Restorative | Responsibility | Futuristic |
 
 #### Technical Experience:
