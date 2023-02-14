@@ -37,8 +37,8 @@ CliftonStrengths:
 
 #### Repositories Pinned:
 - <a src="">Case Study: Online Store Data</a>
-- <a src="">Python Problems: CodeWars</a>
-- <a src="">Python Practicing Methods: API Calling, Numpy, Pandas</a>
+- <a src="">CodeWars: Python Practice Problems</a>
+- <a src="">Python Practice: API Calling, Numpy, Pandas</a>
 
 #### Discussing Opportunities? Reach out to me on:
 [<a href="https://www.linkedin.com/in/hayden-lynch/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>]()
