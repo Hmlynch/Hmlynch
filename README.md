@@ -1,4 +1,4 @@
-![](Data_Banner.jpg)
+![](Data_Banner.png)
 
 ### Hi there 👋
 
