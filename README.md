@@ -41,4 +41,4 @@ CliftonStrengths:
 - <a src="">Python Practicing Methods: API Calling, Numpy, Pandas</a>
 
 #### Discussing Opportunities? Reach out to me on:
-[<a src="https://www.linkedin.com/in/hayden-lynch/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>]()
+[<a href="https://www.linkedin.com/in/hayden-lynch/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>]()
