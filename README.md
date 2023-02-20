@@ -38,6 +38,7 @@ With a strong sense of commitment, I am consistently driven to improve myself pe
 - <a href="https://github.com/Hmlynch/Code-Wars-Problems">CodeWars: Python Practice Problems</a>
 - <a href="https://github.com/Hmlynch/Flask_Capstone_Project">Capstone Project: Flask Movie Search Application</a>
 - <a href="https://github.com/Hmlynch/Excel-Fundamentals">Excel Fundamentals</a>
+- <a href="https://github.com/Hmlynch/Tableau-Fundamentals/tree/main">Tableau Fundamentals</a>
 
 #### Currently looking for career opportunities. Reach out to me on:
 [<a href="https://www.linkedin.com/in/hayden-lynch/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>]()
