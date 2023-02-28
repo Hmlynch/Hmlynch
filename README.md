@@ -14,7 +14,7 @@ With a strong sense of commitment, I am consistently driven to improve myself pe
 ##### Programming Langauges:
 
 [<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/RStuido-11b5d6?style=for-the-badge&logo=R&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/RStudio-11b5d6?style=for-the-badge&logo=R&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=black"/>]()
 [<img src="https://img.shields.io/badge/Bigquery-020b6e?style=for-the-badge&logo=google&logoColor=white"/>]()
 
